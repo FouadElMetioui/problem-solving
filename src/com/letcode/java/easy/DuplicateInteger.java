@@ -1,4 +1,4 @@
-package com.letcode.java;
+package com.letcode.java.easy;
 import java.util.HashSet;
 import java.util.Set;
 

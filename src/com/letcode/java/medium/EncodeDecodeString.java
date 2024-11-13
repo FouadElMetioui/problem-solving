@@ -1,4 +1,4 @@
-package com.letcode.java;
+package com.letcode.java.medium;
 
 import java.util.ArrayList;
 import java.util.Arrays;
